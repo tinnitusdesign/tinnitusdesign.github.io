@@ -31,6 +31,4 @@ html{
 	width: 500px;
 }
 
-#mc-embedded-subscribe-form{
-	text-align: center;
-}
+#mc_embed_signup form { text-align: center}
