@@ -1,0 +1,33 @@
+
+body{
+	background: url(nature.jpg);
+	background-size: cover;
+	background-position: center;
+	margin: auto;
+
+}
+
+.btn-default{
+	background-color: gray;
+	height: 40px;
+	text-align: center;
+	background-color: rgba(255, 255, 255,0.7);
+}
+
+
+
+html{
+	height: 100%;
+}
+
+#content{
+	text-align: center;
+	padding-top: 35%;
+
+}
+
+.okvir{
+	background-color: rgba(1,1,1, 0.5);
+	color: rgba(255, 255, 255,0.7);
+	width: 500px;
+}
